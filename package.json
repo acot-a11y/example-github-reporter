@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "serve": "serve src",
+    "test": "acot run"
+  },
+  "devDependencies": {
+    "@acot/acot-config": "0.0.14",
+    "@acot/acot-reporter-github": "0.0.14",
+    "@acot/cli": "0.0.14",
+    "puppeteer": "^13.0.1",
+    "serve": "^13.0.2"
+  }
+}
